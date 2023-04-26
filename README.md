@@ -2,4 +2,4 @@
 I modded for window
 
 
-Check this for more information.
+Check this for more information. https://github.com/destinyls/SMOKE
